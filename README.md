@@ -1,4 +1,4 @@
-<a href="https://phalcon.io/" target="_blank"><img src="https://avatars1.githubusercontent.com/u/1221505?s=180&v=4" alt="Phalcon PHP Logo"></a><br>
+<p><a href="https://phalcon.io/" target="_blank"><img src="https://avatars1.githubusercontent.com/u/1221505?s=180&v=4" alt="Phalcon PHP Logo"></a></p>
 ![PHP Version](https://img.shields.io/badge/PHP-7.0-purple.svg)
 
 # Phalcon PHP - Boilerplate
